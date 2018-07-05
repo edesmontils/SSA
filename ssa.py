@@ -1,7 +1,7 @@
 #!/usr/bin/env python3.6
 # coding: utf8
 """
-Tools to manage statistics on processes
+Tools to manage frequent elements
 """
 #    Copyright (C) 2017 by
 #    Emmanuel Desmontils <emmanuel.desmontils@univ-nantes.fr>
