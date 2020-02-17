@@ -2,7 +2,7 @@
 
 Tools to manage frequent elements
 
-Copyright (C) 2017 by Emmanuel Desmontils <emmanuel.desmontils@univ-nantes.fr>, Patricia Serrano-Alvarado <patricia.serrano-alvarado@univ-nantes.fr>
+Copyright (C) 2017 by Emmanuel Desmontils <emmanuel.desmontils@univ-nantes.fr>
 All rights reserved.
 GPL v 2.0 license.
 
